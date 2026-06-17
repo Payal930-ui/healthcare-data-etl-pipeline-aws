@@ -1,0 +1,9 @@
+LabID,PatientID,TestName,ResultValue,TestDate
+L001,P101,Blood Sugar,140,2025-06-01
+L002,P102,Blood Pressure,120,2025-06-02
+L003,P103,Cholesterol,-50,2025-06-03
+L004,P104,Blood Sugar,abc,2025-06-04
+L005,P105,Heart Rate,80,2025-06-05
+L006,P106,Blood Sugar,,2025-06-06
+L006,P106,Blood Sugar,,2025-06-06
+L007,P999,Cholesterol,180,2025-06-07

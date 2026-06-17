@@ -1,0 +1,9 @@
+PatientID,Name,Age,Gender,Disease,VisitDate
+P101,Rahul,35,M,Diabetes,2025-06-01
+P102,Priya,,F,Hypertension,2025-06-02
+P103,Amit,-5,M,Asthma,2025-06-03
+P104,Neha,28,Female,Diabetes,2025-06-04
+P105,Karan,150,M,Heart Disease,2025-06-05
+P106,Anjali,42,F,Diabetes,2025-06-06
+P104,Neha,28,Female,Diabetes,2025-06-04
+P107,Rohit,31,,Asthma,2025-06-07
