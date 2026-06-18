@@ -68,7 +68,7 @@ Raw CSV Files → Amazon S3 (Bronze) → Glue Crawlers → Glue Data Catalog →
 ```text
 healthcare-data-etl-pipeline-aws/
 ├── README.md
-├──architecture
+├──architecture/
 │    ├── architecture.jpeg
 ├── data/
 │   ├── patients.csv
